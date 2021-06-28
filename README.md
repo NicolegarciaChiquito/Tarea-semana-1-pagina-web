@@ -3,7 +3,7 @@ Tarea de la pagina web
 A continuación en mi github, podemos ver los siguientes codigos con 18, que se ha realizado mediante una pagina web, se ha realizado con
 el conocimiento que ha impartido el docente mediante en clase, con sus respectivas estructura de constructor en clase, su instancias.
 
-El primer ejericio podemos ver la estructura podemos apreciar que es necesario conocer la cantidad total de la compra que se va aplicar
+El primer ejercicio podemos ver la estructura podemos apreciar que es necesario conocer la cantidad total de la compra que se va aplicar
 un 15%, posteriormente obtener el descuento que el cliente pagará
 
  podemos ver que las entradas y salidas son:
@@ -12,7 +12,7 @@ un 15%, posteriormente obtener el descuento que el cliente pagará
 
  teniendo encuenta su variables, podemos aplicar la formula para el descuento y al finalizar presentar por pantalla su descuento.
 
- El segundo ejericio podemos ver que para obtener la cantidad total de ventas  la cantidad de cada una de sus ventas en  el mes y sumarlas.
+ El segundo ejercicio podemos ver que para obtener la cantidad total de ventas  la cantidad de cada una de sus ventas en  el mes y sumarlas.
  no obstante aplicar el 10% para obtener la comisión. 
  
 podemos ver que las entradas y salidas son:
