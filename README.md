@@ -15,7 +15,7 @@ un 15%, posteriormente obtener el descuento que el cliente pagará
  El segundo ejericio podemos ver que para obtener la cantidad total de ventas  la cantidad de cada una de sus ventas en  el mes y sumarlas.
  no obstante aplicar el 10% para obtener la comisión. 
  
-podemos ver que las entradad y salidas son:
+podemos ver que las entradas y salidas son:
  Salidas:   Cantidad a recibir por comisión, cantidad total a recibir
  Entradas: cantidad de venta 1, 2 y 3, sueldo base
  Datos adicionales: el descuento de 10% se aplicará sobre el total de las ventas del mes
