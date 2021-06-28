@@ -6,7 +6,7 @@ el conocimiento que ha impartido el docente mediante en clase, con sus respectiv
 El primer ejericio podemos ver la estructura podemos apreciar que es necesario conocer la cantidad total de la compra que se va aplicar
 un 15%, posteriormente obtener el descuento que el cliente pagará
 
- podemos ver que las entradad y salidas son:
+ podemos ver que las entradas y salidas son:
  su salida es la cantidad que va pagar
  su entrada el total de compra.
 
